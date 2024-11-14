@@ -1,1 +1,1 @@
-Visit Website here - [Click Here](https://shopcart-mern-project.onrender.com/)
+Visit Website here - [click here](https://shopcart-mern-project.onrender.com/)
